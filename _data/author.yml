@@ -3,18 +3,17 @@ dp: https://avatars.githubusercontent.com/u/135534596?v=4 # 사진주소 https:/
 description: "
   <p>
     Developed by HyunGyu Baek who lives in Korea embracing new technologies and challenges 
-    # 문구 변경 필요합니다
   </p>
   <br/>
   <p>
     You should follow him on <a href='https://github.com/kimwoosik123' target='_blank'>Github</a>
   </P>
 "
-email: baekhg102@gmail.com
+email: kws5409@naver.com
 contact:
   - title: github
     url: https://github.com/kimwoosik123
   - title: dev
     url: 
   - title: email
-    url: mailto:baekhg102@gmail.com
+    url: mailto:kws5409@naver.com
